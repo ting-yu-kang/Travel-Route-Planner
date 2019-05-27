@@ -1,4 +1,8 @@
-# Readme
+# Travel Assistant
+![Golden Gate Bridge](./cs6365final-frontend/src/pics/background.jpg)
+### Documents
+* [Project Slides](./CS%206365%20Final%20Project%20Slide.pdf)
+* [Project Report](./Final%20Report.pdf)
 ### There are two folders:
 * cs6365final-frontend/: Front-end repository
 * cs6365final-backend/: Back-end repository
