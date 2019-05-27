@@ -1,0 +1,36 @@
+{
+    "cur_location": {
+        "lat": 37.4224764,
+        "lng": -122.0842499
+    },
+    //"attraction_alias_list"
+    "part1_category_list": [
+        ["active", "Active Life"],
+        ["arts", "Arts & Entertainment"],
+        ["auto", "Automotive"],
+        ["beautysvc", "Beauty & Spas"],
+        ["bicycles", "Bicycles"],
+        ["education", "Education"],
+        ["eventservices", "Event Planning & Services"],
+        ["financialservices", "Financial Services"],
+        ["food", "Food"],
+        ["health", "Health & Medical"],
+        ["homeservices", "Home Services"],
+        ["hotelstravel", "Hotels & Travel"],
+        ["localflavor", "Local Flavor"],
+        ["localservices", "Local Services"],
+        ["massmedia", "Mass Media"],
+        ["nightlife", "Nightlife"],
+        ["pets", "Pets"],
+        ["professional", "Professional Services"],
+        ["publicservicesgovt", "Public Services & Government"],
+        ["religiousorgs", "Religious Organizations"],
+        ["restaurants", "Restaurants"],
+        ["shopping", "Shopping"],
+    ],
+    "part2_attraction_list" :[
+        ["B5e069dbuKZG9IJypIhkyg", "Pier 39", "pier-39-san-francisco"],
+        ["Lz7ydUVmsr2DekT9enEhvw", "Golden Gate Bridge", "golden-gate-bridge-san-francisco"],
+        ["wHhA0cdo0Qzugga1LupN8A", "San Francisco Botanical Garden", "san-francisco-botanical-garden-san-francisco-2"],
+    ]
+}

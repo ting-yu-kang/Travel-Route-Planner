@@ -1,0 +1,52 @@
+[
+    {
+        "index": 0,
+        "parking": {
+            "id": "adsasdf",
+            "lat": 37.4224764,
+            "lng": -122.0842499
+        },
+        "attraction": {
+            "lat": 37.4224764,
+            "lng": -122.142499,
+            "name": "attraction A"
+        }
+    },
+    {
+        "index": 1,
+        "parking": {
+            "lat": 37.45,
+            "lng": -122.4
+        },
+        "attraction": {
+            "lat": 37.49,
+            "lng": -122.4,
+            "name": "attraction B"
+        }
+    },
+    {
+        "index": 2,
+        "parking": {
+            "lat": 36.45,
+            "lng": -123.2
+        },
+        "attraction": {
+            "lat": 36.45,
+            "lng": -123.4,
+            "name": "attraction C"
+        }
+    }
+    ,
+    {
+        "index": 3,
+        "parking": {
+            "lat": 36.45,
+            "lng": -123.2
+        },
+        "attraction": {
+            "lat": 36.45,
+            "lng": -123.4,
+            "name": "attraction C"
+        }
+    }
+]

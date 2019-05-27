@@ -1,0 +1,230 @@
+[
+    {
+        "attractions": [
+            {
+                "id": "wZ7L6QYJpWs6mM28xDD-Zg",
+                "name": "Union Street Festival",
+                "categories": [
+                    {
+                        "alias": "localflavor",
+                        "title": "Local Flavor"
+                    },
+                    {
+                        "alias": "festivals",
+                        "title": "Festivals"
+                    }
+                ],
+                "coordinates": {
+                    "latitude": 37.7981288104317,
+                    "longitude": -122.427268843611
+                },
+                "distance": 329.00889437294774
+            }
+        ],
+        "parking": [
+            {
+                "id": "6e928c64a5a48e80999b04030201fd52501c6615",
+                "name": "Union Laguna Garage - Lot #207",
+                "coordinates": {
+                    "lat": 37.7978635,
+                    "lng": -122.431015
+                }
+            }
+        ],
+        "index": 1
+    },
+    {
+        "attractions": [
+            {
+                "id": "ipsjrKLs8gmjIJsbwfEtTg",
+                "name": "The Interval At Long Now",
+                "categories": [
+                    {
+                        "alias": "museums",
+                        "title": "Museums"
+                    },
+                    {
+                        "alias": "cafes",
+                        "title": "Cafes"
+                    },
+                    {
+                        "alias": "cocktailbars",
+                        "title": "Cocktail Bars"
+                    }
+                ],
+                "coordinates": {
+                    "latitude": 37.8066279497009,
+                    "longitude": -122.432121163476
+                },
+                "distance": 86.98914088969866
+            }
+        ],
+        "parking": [
+            {
+                "id": "c49daed8c6ef7044dd4026ad549201fe8d0751f3",
+                "name": "Fort Mason Center - Lot #67",
+                "coordinates": {
+                    "lat": 37.806627,
+                    "lng": -122.431131
+                }
+            }
+        ],
+        "index": 2
+    },
+    {
+        "attractions": [
+            {
+                "id": "G0hXK-1uwd-Ed2Mwdajidg",
+                "name": "Blazing Saddles Bike Rentals & Tours",
+                "categories": [
+                    {
+                        "alias": "bikerentals",
+                        "title": "Bike Rentals"
+                    },
+                    {
+                        "alias": "tours",
+                        "title": "Tours"
+                    }
+                ],
+                "coordinates": {
+                    "latitude": 37.80604,
+                    "longitude": -122.4208
+                },
+                "distance": 103.8687267392102
+            },
+            {
+                "id": "3eof5k0d1z_70b5FGo1jSg",
+                "name": "San Francisco Bicycle Rentals",
+                "categories": [
+                    {
+                        "alias": "tours",
+                        "title": "Tours"
+                    },
+                    {
+                        "alias": "bikerentals",
+                        "title": "Bike Rentals"
+                    }
+                ],
+                "coordinates": {
+                    "latitude": 37.8075122641545,
+                    "longitude": -122.419495582581
+                },
+                "distance": 111.88847832381461
+            },
+            {
+                "id": "FJw512-RNxQXMpeK0S41vw",
+                "name": "San Francisco Maritime National Historical Park",
+                "categories": [
+                    {
+                        "alias": "museums",
+                        "title": "Museums"
+                    },
+                    {
+                        "alias": "landmarks",
+                        "title": "Landmarks & Historical Buildings"
+                    }
+                ],
+                "coordinates": {
+                    "latitude": 37.8075606375933,
+                    "longitude": -122.420573830605
+                },
+                "distance": 113.52197541683263
+            },
+            {
+                "id": "0cxpwCGocgmFd31-NmSSiQ",
+                "name": "Electric Tour Company Segway Tours",
+                "categories": [
+                    {
+                        "alias": "tours",
+                        "title": "Tours"
+                    },
+                    {
+                        "alias": "scavengerhunts",
+                        "title": "Scavenger Hunts"
+                    },
+                    {
+                        "alias": "teambuilding",
+                        "title": "Team Building Activities"
+                    }
+                ],
+                "coordinates": {
+                    "latitude": 37.80626,
+                    "longitude": -122.42134
+                },
+                "distance": 121.32654710746577
+            },
+            {
+                "id": "yCxIJwQFpCgKEoeGbZb4FA",
+                "name": "Bay City Bike Rentals and Tours",
+                "categories": [
+                    {
+                        "alias": "bikerentals",
+                        "title": "Bike Rentals"
+                    },
+                    {
+                        "alias": "winetours",
+                        "title": "Wine Tours"
+                    },
+                    {
+                        "alias": "bustours",
+                        "title": "Bus Tours"
+                    }
+                ],
+                "coordinates": {
+                    "latitude": 37.80695,
+                    "longitude": -122.41591
+                },
+                "distance": 374.7227085393597
+            },
+            {
+                "id": "RZ-Pw-CZXg23tW12KBPnMQ",
+                "name": "Bay City Bike Rentals & Tours",
+                "categories": [
+                    {
+                        "alias": "tours",
+                        "title": "Tours"
+                    },
+                    {
+                        "alias": "bikerentals",
+                        "title": "Bike Rentals"
+                    },
+                    {
+                        "alias": "vacationrentalagents",
+                        "title": "Vacation Rental Agents"
+                    }
+                ],
+                "coordinates": {
+                    "latitude": 37.8049581,
+                    "longitude": -122.4157956
+                },
+                "distance": 405.8950269015021
+            },
+            {
+                "id": "VkyaZ8AZdFd5VIFpKiREew",
+                "name": "USS Pampanito",
+                "categories": [
+                    {
+                        "alias": "museums",
+                        "title": "Museums"
+                    }
+                ],
+                "coordinates": {
+                    "latitude": 37.809945,
+                    "longitude": -122.416455
+                },
+                "distance": 484.42186885314294
+            }
+        ],
+        "parking": [
+            {
+                "id": "f2a0dfce851aea888d8fd4dabc546c844fdb07c1",
+                "name": "Hyde Beach Garage",
+                "coordinates": {
+                    "lat": 37.8065696,
+                    "lng": -122.4199411
+                }
+            }
+        ],
+        "index": 3
+    }
+]

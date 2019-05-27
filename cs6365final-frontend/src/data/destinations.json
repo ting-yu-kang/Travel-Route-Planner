@@ -1,0 +1,15 @@
+[
+    
+    {
+        "id":"adsasdf",
+        "lat" : 37.4224764,
+        "lng" : -122.0842499,
+        "name": "first"
+    },
+    {
+        "id":"asdzxcv",
+        "lat" : 37.45,
+        "lng" : -122.4,
+        "name": "second"
+    }
+]

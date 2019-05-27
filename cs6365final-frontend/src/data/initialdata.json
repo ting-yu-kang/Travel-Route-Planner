@@ -1,0 +1,96 @@
+{
+    "cur_location": {
+        "lat": 37.4224764,
+        "lng": -122.0842499
+    },
+    "attraction_alias_list": [
+        [
+            "active",
+            "Active Life"
+        ],
+        [
+            "arts",
+            "Arts & Entertainment"
+        ],
+        [
+            "auto",
+            "Automotive"
+        ],
+        [
+            "beautysvc",
+            "Beauty & Spas"
+        ],
+        [
+            "bicycles",
+            "Bicycles"
+        ],
+        [
+            "education",
+            "Education"
+        ],
+        [
+            "eventservices",
+            "Event Planning & Services"
+        ],
+        [
+            "financialservices",
+            "Financial Services"
+        ],
+        [
+            "food",
+            "Food"
+        ],
+        [
+            "health",
+            "Health & Medical"
+        ],
+        [
+            "homeservices",
+            "Home Services"
+        ],
+        [
+            "hotelstravel",
+            "Hotels & Travel"
+        ],
+        [
+            "localflavor",
+            "Local Flavor"
+        ],
+        [
+            "localservices",
+            "Local Services"
+        ],
+        [
+            "massmedia",
+            "Mass Media"
+        ],
+        [
+            "nightlife",
+            "Nightlife"
+        ],
+        [
+            "pets",
+            "Pets"
+        ],
+        [
+            "professional",
+            "Professional Services"
+        ],
+        [
+            "publicservicesgovt",
+            "Public Services & Government"
+        ],
+        [
+            "religiousorgs",
+            "Religious Organizations"
+        ],
+        [
+            "restaurants",
+            "Restaurants"
+        ],
+        [
+            "shopping",
+            "Shopping"
+        ]
+    ]
+}

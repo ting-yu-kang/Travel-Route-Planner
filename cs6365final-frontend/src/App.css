@@ -1,0 +1,189 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+#map {
+  height: 425px;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#floating-panel1 {
+  position: relative;
+  float: left;
+  width: 50%;
+  overflow: auto;
+  /* top: 300px; */
+  /* left: 25%; */
+  z-index: 5;
+  background-color: #fff;
+  padding: 5px;
+  border: 1px solid #999;
+  text-align: center;
+  font-family: 'Roboto','sans-serif';
+  line-height: 30px;
+  padding-left: 10px;
+}
+#floating-panel2 {
+  position: relative;
+  float: left;
+  width: 50%;
+  overflow: auto;
+  /* top: 300px; */
+  /* left: 25%; */
+  z-index: 5;
+  background-color: #fff;
+  padding: 5px;
+  border: 1px solid #999;
+  text-align: center;
+  font-family: 'Roboto','sans-serif';
+  line-height: 30px;
+  padding-left: 10px;
+}
+#right-panel {
+  font-family: 'Roboto','sans-serif';
+  /* line-height: 30px;
+  padding-left: 10px; */
+}
+
+#right-panel select, #right-panel input {
+  font-size: 15px;
+}
+
+#right-panel select {
+  width: 100%;
+}
+
+#right-panel i {
+  font-size: 12px;
+}
+#right-panel {
+  /* height: 100%; */
+  height: 425px;
+  float: right;
+  /* width: 390px; */
+  width: 50%;
+  overflow: auto;
+}
+#down-panel {
+  font-family: 'Roboto','sans-serif';
+  /* line-height: 30px;
+  padding-left: 10px; */
+}
+
+#down-panel select, #down-panel input {
+  font-size: 15px;
+}
+
+#down-panel select {
+  width: 100%;
+}
+
+#down-panel i {
+  font-size: 12px;
+}
+#down-panel {
+  /* height: 100%; */
+  height: 425px;
+  float: left;
+  /* width: 390px; */
+  width: 50%;
+  overflow: auto;
+}
+
+#down-panel-right {
+  font-family: 'Roboto','sans-serif';
+  /* line-height: 30px;
+  padding-left: 10px; */
+}
+
+#down-panel-right select, #down-panel-right input {
+  font-size: 15px;
+}
+
+#down-panel-right select {
+  width: 100%;
+}
+
+#down-panel-right i {
+  font-size: 12px;
+}
+#down-panel-right {
+  /* height: 100%; */
+  /* height: 425px; */
+  float: right;
+  /* width: 390px; */
+  width: 50%;
+  overflow: auto;
+  border-style: groove;
+  /* border-color: red; */
+}
+
+@media print {
+  #map {
+    height: 500px;
+    margin: 0;
+  }
+  #right-panel {
+    float: none;
+    width: auto;
+  }
+}
+
+.tab-list {
+  border-bottom: 1px solid #ccc;
+  padding-left: 0;
+}
+
+.tab-list-item {
+  display: inline-block;
+  list-style: none;
+  margin-bottom: -1px;
+  padding: 0.5rem 0.75rem;
+}
+
+.tab-list-active {
+  background-color: white;
+  border: solid #ccc;
+  border-width: 1px 1px 0 1px;
+}
+.tab { 
+  margin-left: 60px;
+ }
+
+ .checkbox {
+  position: relative;
+  /* margin-left: 10px; */
+
+ }
+ .checkbox-text {
+  /* position: relative; */
+  margin-left: 10px;
+ }
